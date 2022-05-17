@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-<a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-t.me/the＿deepnet-green?colorA=%234083de&colorB=%23d0d3d7&style=for-the-badge"></a>
+<a href="https://t.me/the_deepnet"><img title="Telegram" src="https://img.shields.io/badge/Telegram-t.me/the＿deepnet-green?colorA=%234083de&colorB=%23d0d3d7&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Data-Grabber" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM5LdiiLVrG9TSV4WGFgx27Cf3VqOSMI0LpDz2ZUjJAzypxE01RH0g-Uuk2lFqC66Qg2idU0u33oSzHVRQxR4I5p35kr6_EdnIMJM6ID6ToMI3v-Wsj7fVWeFIApxx7umPh7j6UBkiq9Gc7B7F-ueTqU_ew_RIcc-YGLRhFMMt7yiUNEHYk8GKUDkp/s3409/Picsart_22-05-17_20-38-07-909.png"></a>
