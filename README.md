@@ -47,20 +47,6 @@ Data-Grabber steals browsers passwords, cookies, ip, screenshot and more.
 3. On the same directory as python file open command prompt and type:
 >pyinstaller --clean --onefile --noconsole -i NONE Data-Grabber
 
-## Linux/Termux Installation :
-
-* `apt update && upgrade`
-* `apt install python`
-* `apt install git`
-* `git clone https://github.com/the-deepnet/Data-Grabber.git`
-* `cd Data-Grabber`
-#### > Run : `python Data-Grabber`
-
-## Single Command :
-```
-apt update && upgrade ; apt install python ; apt install git ; git clone https://github.com/the-deepnet/Data-Grabber.git ; cd Data-Grabber ; python Data-Grabber
-```
-
 ---
 
 ### ❤️Supporters❤️
